@@ -1,0 +1,273 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Страница — 1" id="vNltBsTmgiJkITQa7lU2">
+    <mxGraphModel dx="5314" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-7" value="Начало работы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-8" target="ltYEQbaWMHySrsDpNKCI-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-8" target="ltYEQbaWMHySrsDpNKCI-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-8" value="Выводятся названия всех списков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="180" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-7" target="ltYEQbaWMHySrsDpNKCI-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Пользователь вводит &quot;check&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-12" target="ltYEQbaWMHySrsDpNKCI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-812.5" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-12" target="ltYEQbaWMHySrsDpNKCI-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-531.2857142857142" y="780" as="targetPoint" />
+            <mxPoint x="-531.25" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-12" target="ltYEQbaWMHySrsDpNKCI-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="740" as="targetPoint" />
+            <mxPoint x="-531.25" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-12" target="ltYEQbaWMHySrsDpNKCI-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-12" target="ltYEQbaWMHySrsDpNKCI-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-491" y="40" />
+              <mxPoint x="-20" y="40" />
+              <mxPoint x="-20" y="35" />
+              <mxPoint x="20" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-12" value="Показывается список со всеми его характеристиками (пронумерованный, удаляет задачи при выполнении или нет и т.д.).&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-612.5" y="400" width="242.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-8" target="ltYEQbaWMHySrsDpNKCI-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-330" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Пользователь вводит название списка или его номер&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="160" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-16" target="ltYEQbaWMHySrsDpNKCI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-16" target="ltYEQbaWMHySrsDpNKCI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-16" value="Задача считается &quot;выполненной&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Пользователь вводит &quot;complete&quot; и номер задачи&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="560" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-19" target="ltYEQbaWMHySrsDpNKCI-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1380" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1210" y="1030" />
+              <mxPoint x="-1410" y="1030" />
+              <mxPoint x="-1410" y="380" />
+              <mxPoint x="-491" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-19" value="Задача удаляется" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-20" value="Задача визуально показывается &quot;выполненной&quot; и не удаляется из списка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="870" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-24" value="Список &quot;самозавершающийся&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="788" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-25" value="Список не &quot;самозавершающийся&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="788" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Пользователь вводит &quot;delete&quot; и название или номер списка&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-8" target="ltYEQbaWMHySrsDpNKCI-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="470" as="sourcePoint" />
+            <mxPoint x="150" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-30" value="Список удаляется" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.00000000000045" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-33" target="ltYEQbaWMHySrsDpNKCI-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-631.25" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-33" value="Программа ожидает новый текст задачи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-691.25" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1210" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-631" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-35" value="Задача изменена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-691.25" y="898" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-37" value="Пользователь вводит &quot;change&quot; и номер задачи" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-38" value="Пользователь вводит текст" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="818" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-39" value="Пользователь вводит &quot;delete&quot; и номер задачи" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-420" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-42" value="Задача удаляется" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-44" target="ltYEQbaWMHySrsDpNKCI-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20.285714285714675" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-44" value="Программа ожидает текст нового названия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-46" target="ltYEQbaWMHySrsDpNKCI-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="550" />
+              <mxPoint x="160" y="385" />
+              <mxPoint x="140" y="385" />
+              <mxPoint x="140" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-46" value="Название списка изменяется" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40.004285714285324" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-47" value="Пользователь вводит текст" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-48" value="Пользователь вводит &quot;rename&quot; и номер списка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-51" target="ltYEQbaWMHySrsDpNKCI-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-189.71428571428532" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-51" value="Программа ожидает текст нового названия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-52" value="Название списка изменяется" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250.00428571428532" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-53" value="Пользователь вводит текст" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-54" value="Пользователь вводит &quot;rename&quot;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="750" as="sourcePoint" />
+            <mxPoint x="-1210" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-76" value="Пользователь вводит &quot;back&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-571.25" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-78" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Пользователь вводит &quot;add&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-align: center;&quot;&gt;&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-80" target="ltYEQbaWMHySrsDpNKCI-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-80" value="Программа ожидает названия списка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-82" target="ltYEQbaWMHySrsDpNKCI-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-82" value="Программа ожидает кол-во задач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-83" value="Пользователь вводит каждую задачу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltYEQbaWMHySrsDpNKCI-86" target="ltYEQbaWMHySrsDpNKCI-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltYEQbaWMHySrsDpNKCI-86" value="Программа ожидает характеристик списка (нумерованный, самозавершающийся и т.д.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="550" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
