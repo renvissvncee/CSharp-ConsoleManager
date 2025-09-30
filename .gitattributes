@@ -1,0 +1,37 @@
+# --- Код ---
+# Все .cs файлы считаем текстом, строки храним в Git в формате LF
+*.cs text eol=lf
+
+# --- Конфигурационные файлы ---
+*.json text eol=lf
+*.yml  text eol=lf
+*.xml  text eol=lf
+*.config text eol=lf
+*.md   text eol=lf
+
+# --- Скрипты ---
+*.sh   text eol=lf
+*.ps1  text eol=crlf   # PowerShell скрипты на Windows — CRLF
+*.bat  text eol=crlf   # Windows batch тоже CRLF
+
+# --- Ресурсы / данные ---
+*.sql  text eol=lf
+*.csv  text eol=lf
+
+# --- Бинарные файлы (НЕ трогать) ---
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.dll  binary
+*.exe  binary
+*.pdf  binary
+*.zip  binary
+*.drawio binary   # диаграммы Draw.io
+
+# --- Visual Studio / Rider ---
+*.sln  text eol=crlf
+*.csproj text eol=lf
+*.props  text eol=lf
+*.targets text eol=lf
