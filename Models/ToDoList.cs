@@ -7,50 +7,21 @@ namespace ConsoleManager.Models
     {
         private List<ToDoTask> list = new List<ToDoTask>();
 
-        private string? Title;
-        private bool IsSelfCompleting;
+        internal string? Title { get; set; }
 
-        internal void AddToDoTask(ToDoTask task)
+        private bool _IsSelfCompleting;
+        internal int Number { get; set; }
+        internal bool IsSelfCompleting
         {
-            task.Number = list.Count + 1;
-            task.IsDone = false;
-            list.Add(task);
-        }
-
-        internal void DeleteToDoTask(int number)
-        {
-            for (int i = number; i < list.Count; i++)
+            get => _IsSelfCompleting;
+            set
             {
-                list[i].Number--;
-            }
-            list.RemoveAt(number - 1);
-        }
-
-        internal void CompleteToDoTask(int number)
-        {
-            if (IsSelfCompleting)
-            {
-                this.DeleteToDoTask(number);
-            }
-            else
-            {
-                list[number - 1].IsDone = true;
+                _IsSelfCompleting = value;
+                if (_IsSelfCompleting)
+                {
+                    list.RemoveAt(t => t.IsDone);
+                }
             }
         }
-
-        internal void SetTitle(string title) => Title = title;
-
-        internal string ReturnTitle()
-        {
-            string? title = Title;
-            return title!;
-        }
-
-        internal void ChangeToDoTask(int number, string newText)
-        {
-            list[number - 1].Text = newText;
-        }
-
-        internal void SetSelfCompleting() => IsSelfCompleting = true;
     }
 }

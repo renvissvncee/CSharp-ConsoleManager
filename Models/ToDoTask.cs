@@ -9,6 +9,5 @@ namespace ConsoleManager.Models
         internal int Number { get; set; } // начиная с единицы
 
         internal void Rename(string newName) => Text = newName;
-        internal void Complete() => IsDone = true;
     }
 }

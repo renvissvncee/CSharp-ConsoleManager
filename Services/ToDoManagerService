@@ -1,0 +1,30 @@
+using ConsoleManager.Models;
+
+namespace ConsoleManager.Services
+{
+    class ToDoManagerService
+    {
+        private readonly List<ToDoList> _lists = new();
+
+        internal void AddList(ToDoList list)
+        {
+            if (list == null)
+                throw new ArgumentNullException(nameof(list));
+
+            list.Number = _lists.Count + 1;
+            _lists.Add(list);
+        }
+
+        internal void DeleteList(int number)
+        {
+            if (number > _lists.Count || number <= 0)
+                throw new ArgumentOutOfRangeException(nameof(number), "Неверный номер списка");
+            
+            for (int i = number; i < _lists.Count; i++)
+            {
+                _lists[i].Number--;
+            }
+            _lists.RemoveAt(number - 1);
+        }
+    }
+}
